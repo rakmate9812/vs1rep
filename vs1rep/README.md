@@ -1,4 +1,4 @@
-# firstrep
+# elso repom
 ujratervezes3.0 gyakorlasos cuccok
 
 --githubrol cuccok leszedese es frissitese:
