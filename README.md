@@ -1,8 +1,8 @@
 # firstrep
-ujratervezes3.0 gyakorlasos cuccok
+ujratervezes 3.0 gyakorlasos cuccok
 
---githubrol cuccok leszedese es frissitese:
-git clone "githubrep url"
+--githubrol cuccok leszedese/frissitese es megnyitasa:
 cmd
-beleallas az "ujratervezes 3.0rep" mappaba
+beleallas a d:\vs1rep mappaba
+git clone "githubrep url"
 code .
