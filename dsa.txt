@@ -1,6 +1,0 @@
-git remote add origin https://github.com/rakmate9812/vs1rep.git
-git branch -M main
-git push -u origin main
-
-fasssssz
-gechoooo
