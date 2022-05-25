@@ -7,8 +7,9 @@ code .
 --cuccok feltoltese repoval
 cmd
 beleallas a d:\vs1rep mapaba
+git status
 git add .
-git commit
+git commit -m "random uzenet"
 git pull
 git push
 
