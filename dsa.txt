@@ -16,3 +16,5 @@ git push
 ctrl+f2- osszes elofordulas kijeloles
 ctrl+d- koveteezo elofordulas kijeloles
 alt+le/fel- sor mozgatasa le/fel
+
+shift+alt+le/fel- sor duplikálás le/fel
